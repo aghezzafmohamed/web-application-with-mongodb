@@ -4,6 +4,5 @@ Vedio de l'application web: https://www.linkedin.com/feed/update/urn:li:activity
 
 * Contact
 
-Linkedin: https://www.linkedin.com/in/mohamed-aghezzaf/ 
-
+Linkedin: <a href="https://www.linkedin.com/in/mohamed-aghezzaf/">aghezzafmohamed<a/> <br>
 Gmail: aghe.mohamed@gmail.com
